@@ -8,7 +8,7 @@
  
  # Requirements:
  <ul>
- <li>UNIX Environment (Ubuntu)</li>
+ <li>UNIX Environment (Linux)</li>
  <li>GNU Compiler (gcc)</li>
  </ul>
  
